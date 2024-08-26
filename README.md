@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![](https://github.com/Llynoirx/web102_prework/blob/main/prework.gif)
 
 
